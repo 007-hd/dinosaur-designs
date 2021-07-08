@@ -17,6 +17,7 @@ h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
   font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 figcaption {
@@ -29,6 +30,7 @@ nav {
   font-size: 1.125rem;
   font-weight: bold;
   font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 nav ol {
